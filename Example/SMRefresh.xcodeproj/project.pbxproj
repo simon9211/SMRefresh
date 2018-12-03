@@ -28,7 +28,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		830ED4A4FA3E15B37A33461F /* Pods-SMRefresh_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SMRefresh_Tests.release.xcconfig"; path = "Target Support Files/Pods-SMRefresh_Tests/Pods-SMRefresh_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9AD588EAF7ECA614BD996526 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		9FCCC188533359C91FB4468C /* SMRefresh.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SMRefresh.podspec; path = ../SMRefresh.podspec; sourceTree = "<group>"; };
+		9FCCC188533359C91FB4468C /* SMRefresh.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SMRefresh.podspec; path = ../SMRefresh.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B5E6B60C62FEB2B95C763A09 /* Pods_SMRefresh_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SMRefresh_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5F40F9A69BE4A56027F72E7 /* Pods-SMRefresh_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SMRefresh_Tests.debug.xcconfig"; path = "Target Support Files/Pods-SMRefresh_Tests/Pods-SMRefresh_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

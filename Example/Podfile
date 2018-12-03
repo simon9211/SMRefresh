@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SMRefresh_Tests' do
+  pod 'SMRefresh', :path => '../'
+  
+  
+end

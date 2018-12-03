@@ -22,12 +22,7 @@ pod 'SMRefresh'
 
 ## Author
 
-simon9211, xiwang.wang@palmaplus.com
-xiwang.wang@palmaplus.com
-xiwang.wang@palmaplus.com
-xiwang.wang@palmaplus.com
-xiwang.wang@palmaplus.com
-xiwang.wang@palmaplus.com
+simon9211@126.com
 
 ## License
 

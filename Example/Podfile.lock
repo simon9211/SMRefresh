@@ -1,0 +1,16 @@
+PODS:
+  - SMRefresh (0.1.0)
+
+DEPENDENCIES:
+  - SMRefresh (from `../`)
+
+EXTERNAL SOURCES:
+  SMRefresh:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SMRefresh: 0279c4254aebfb112b34d999760175d9a3fcd6c7
+
+PODFILE CHECKSUM: 519be5a15d50dfe24c44fff1bf379e8b5b60f568
+
+COCOAPODS: 1.6.0.beta.2

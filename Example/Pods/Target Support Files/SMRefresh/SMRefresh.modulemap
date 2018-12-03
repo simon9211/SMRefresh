@@ -1,0 +1,6 @@
+framework module SMRefresh {
+  umbrella header "SMRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
